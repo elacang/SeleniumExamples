@@ -1,0 +1,1 @@
+INDEX VERSION 1.127+C:\javaworkspace\SeleniumExamples\.metadata\.plugins\org.eclipse.jdt.core

@@ -1,0 +1,11 @@
+2015-05-14 14:35:40,535 [Worker-0] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Collecting project info '/pom.xml' C:\javaworkspace\SeleniumExamples\SampleCodes\pom.xml
+2015-05-14 14:35:46,573 [Worker-0] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: SeleniumLearning:SampleCodes:0.0.1-SNAPSHOT @ C:\javaworkspace\SeleniumExamples\SampleCodes\pom.xml.
+2015-05-14 14:35:47,778 [Worker-1] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: SeleniumLearning:SampleCodes:0.0.1-SNAPSHOT @ C:\javaworkspace\SeleniumExamples\SampleCodes\pom.xml.
+2015-05-14 14:35:47,790 [Worker-0] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /SampleCodes/src/main/java
+2015-05-14 14:35:47,793 [Worker-0] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /SampleCodes/src/test/java
+2015-05-14 14:35:50,081 [Worker-0] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 9 sec
+2015-05-14 14:35:51,163 [Worker-0] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: SeleniumLearning:SampleCodes:0.0.1-SNAPSHOT @ C:\javaworkspace\SeleniumExamples\SampleCodes\pom.xml.
+2015-05-14 14:35:51,280 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-05-14 14:35:51,280 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\javaworkspace\SeleniumExamples\SampleCodes\src\main\resources
+2015-05-14 14:35:51,282 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-05-14 14:35:51,282 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\javaworkspace\SeleniumExamples\SampleCodes\src\test\resources
