@@ -9,3 +9,22 @@
 2015-05-14 14:35:51,280 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\javaworkspace\SeleniumExamples\SampleCodes\src\main\resources
 2015-05-14 14:35:51,282 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2015-05-14 14:35:51,282 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\javaworkspace\SeleniumExamples\SampleCodes\src\test\resources
+2015-05-14 14:48:33,793 [Worker-4] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: SeleniumLearning:SampleCodes:0.0.1-SNAPSHOT @ /Users/isobarph/SeleniumExamples/SampleCodes/pom.xml.
+2015-05-14 14:48:34,284 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-05-14 14:48:34,284 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/isobarph/SeleniumExamples/SampleCodes/src/main/resources
+2015-05-14 14:48:34,287 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-05-14 14:48:34,288 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/isobarph/SeleniumExamples/SampleCodes/src/test/resources
+2015-05-14 14:48:35,913 [Worker-5] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: SeleniumLearning:SampleCodes:0.0.1-SNAPSHOT @ /Users/isobarph/SeleniumExamples/SampleCodes/pom.xml.
+2015-05-14 14:48:36,022 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-05-14 14:48:36,023 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/isobarph/SeleniumExamples/SampleCodes/src/main/resources
+2015-05-14 14:48:36,025 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-05-14 14:48:36,025 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/isobarph/SeleniumExamples/SampleCodes/src/test/resources
+2015-05-14 14:50:19,605 [Worker-6] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: SeleniumLearning:SampleCodes:0.0.1-SNAPSHOT @ /Users/isobarph/SeleniumExamples/SampleCodes/pom.xml.
+2015-05-14 14:50:22,369 [Worker-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/junit/junit/4.12/junit-4.12.pom
+2015-05-14 14:50:22,920 [Worker-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/junit/junit/4.12/junit-4.12.pom
+2015-05-14 14:50:23,145 [Worker-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/junit/junit/4.12/junit-4.12.jar
+2015-05-14 14:50:24,755 [Worker-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/junit/junit/4.12/junit-4.12.jar
+2015-05-14 14:50:24,810 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-05-14 14:50:24,811 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/isobarph/SeleniumExamples/SampleCodes/src/main/resources
+2015-05-14 14:50:24,813 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-05-14 14:50:24,813 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/isobarph/SeleniumExamples/SampleCodes/src/test/resources
