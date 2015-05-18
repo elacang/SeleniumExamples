@@ -1,0 +1,10 @@
+package SeleniumLearning.SampleCodes;
+
+public class firstExcercise {
+	
+	public static void main (args)
+	{
+		
+	}
+
+}
