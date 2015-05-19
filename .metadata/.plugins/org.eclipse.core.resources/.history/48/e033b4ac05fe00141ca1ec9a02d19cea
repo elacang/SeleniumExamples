@@ -1,0 +1,44 @@
+package SeleniumLearning.SampleCodes;
+
+import cucumber.api.java.en.Given;
+import cucumber.api.java.en.Then;
+import cucumber.api.java.en.When;
+
+public class stepDefinition {
+
+	@Given("^that the user opens Google homepage on a web browser$")
+	public void that_the_user_opens_Google_homepage_on_a_web_browser() throws Throwable {
+	    
+	}
+
+	@When("^the user enters \"(.*?)\"$")
+	public void the_user_enters(String arg1) throws Throwable {
+	
+	}
+
+	@When("^the user press \"(.*?)\" key on the keyboard$")
+	public void the_user_press_key_on_the_keyboard(String arg1) throws Throwable {
+
+	}
+
+	@Then("^the user should be shown the result page$")
+	public void the_user_should_be_shown_the_result_page() throws Throwable {
+	   
+	}
+
+	@Then("^the user clicks on the first result$")
+	public void the_user_clicks_on_the_first_result() throws Throwable {
+	   
+	}
+
+	@When("^the user clicks on the Im Feeling Lucky button$")
+	
+	}
+
+	@Then("^the user should be redirected on the doodle page of Google$")
+	public void the_user_should_be_redirected_on_the_doodle_page_of_Google() throws Throwable {
+	 
+	}
+
+	
+}
